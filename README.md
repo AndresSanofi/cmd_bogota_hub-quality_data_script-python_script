@@ -3,6 +3,9 @@
 ## Descripcion
 Herramienta interna de Python para usuarios no tecnicos que necesitan limpiar y revisar archivos Excel o CSV con datos maestros de clientes. El flujo toma un archivo desde `input/`, aplica transformaciones o verificaciones segun la opcion elegida y guarda el resultado en `output/` sin modificar el archivo original.
 
+## Alcance del repositorio
+Este repositorio es standalone. Aunque localmente hoy vive dentro de una carpeta mayor llamada `Clean Up Report`, la raiz real del repositorio es esta carpeta y debe publicarse como proyecto independiente bajo el nombre `master-data-quality-cleaner-python`.
+
 ## Proposito del negocio
 Este proyecto reduce trabajo manual en tareas repetitivas de data quality para Customer Master Data. Estandariza campos criticos como Name, Street, City y ZIP, y separa claramente las transformaciones de los reportes de verificacion para facilitar la revision operativa y la toma de accion.
 
@@ -42,7 +45,7 @@ Pasos operativos:
 
 ## Estructura del proyecto
 ```text
-cleaner/
+master-data-quality-cleaner-python/
 |-- .github/
 |   `-- CODEOWNERS
 |-- docs/

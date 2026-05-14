@@ -9,6 +9,14 @@ Andres Felipe YANEZ VILLARRAGA
 Customer Master Data Analyst
 AndresFelipe.YANEZVILLARRAGA@sanofi.com
 
+ALCANCE DEL REPOSITORIO
+----------------------
+Esta carpeta debe tratarse como un repositorio independiente.
+Aunque localmente este dentro de otra ruta mayor, la raiz real del
+repositorio es esta carpeta y su nombre objetivo es:
+
+  master-data-quality-cleaner-python
+
 QUE HACE ESTA HERRAMIENTA
 -------------------------
 Esta herramienta permite limpiar y revisar archivos Excel o CSV
