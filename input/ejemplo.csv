@@ -1,0 +1,6 @@
+Customer ID,Account Name,Street,City,Notes
+1001,Clinical Farmacy#1,123 Main Suite 4,miami,"# debe volverse espacio en nombre; SUITE->STE"
+1002,"St. Mary's Hospital",456 Oak Avenue,Boston,"punto y apostrofe en nombre; AVENUE->AVE"
+1003,"Health & Wellness Center",789 North Boulevard,New york,"& -> AND; NORTH->N; BOULEVARD->BLVD"
+1004,"Lab (North)","Apt. 12, 5th Street",Chicago,"paréntesis/coma en nombre; STREET->ST"
+1005,"SMITH, JOHN MD",100 West Drive Building B,Seattle,"coma en nombre; WEST->W; DRIVE->DR; BUILDING->BLDG"

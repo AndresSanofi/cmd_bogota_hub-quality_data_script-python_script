@@ -1,0 +1,16 @@
+/.venv/
+/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+/output/*
+!/output/.gitkeep
+
+/input/*
+!/input/.gitkeep
+!/input/ejemplo.csv
+
+*.log
+*.tmp
+*.bak
