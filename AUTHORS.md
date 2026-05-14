@@ -11,7 +11,12 @@
   - Estructuracion de referencias locales y documentacion tecnica
 
 ## Mantenedores Actuales
-**Andres Felipe YANEZ VILLARRAGA**
+**Daniela Pulgarin**
+- Email: Daniela.Pulgarin@sanofi.com
+
+**Nicolas Pinzon Gualdron**
+- Email: Nicolas.PINZONGUALDRON@sanofi.com
 
 ## Contribuidores
-Sin contribuidores adicionales registrados hasta la fecha.
+**Andres Felipe YANEZ VILLARRAGA**
+- Rol: Desarrollador original del proyecto

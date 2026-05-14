@@ -1,10 +1,7 @@
 # master-data-quality-cleaner-python
 
 ## Descripcion
-Herramienta interna de Python para usuarios no tecnicos que necesitan limpiar y revisar archivos Excel o CSV con datos maestros de clientes. El flujo toma un archivo desde `input/`, aplica transformaciones o verificaciones segun la opcion elegida y guarda el resultado en `output/` sin modificar el archivo original.
-
-## Alcance del repositorio
-Este repositorio es standalone. Aunque localmente hoy vive dentro de una carpeta mayor llamada `Clean Up Report`, la raiz real del repositorio es esta carpeta y debe publicarse como proyecto independiente bajo el nombre `master-data-quality-cleaner-python`.
+Herramienta interna de Python para limpiar y verificar archivos Excel o CSV de customer master data, con un flujo simple basado en `input/`, procesamiento guiado por menu y salida controlada en `output/`.
 
 ## Proposito del negocio
 Este proyecto reduce trabajo manual en tareas repetitivas de data quality para Customer Master Data. Estandariza campos criticos como Name, Street, City y ZIP, y separa claramente las transformaciones de los reportes de verificacion para facilitar la revision operativa y la toma de accion.
@@ -89,8 +86,13 @@ Email: AndresFelipe.YANEZVILLARRAGA@sanofi.com
 Rol: Customer Master Data Analyst  
 Fecha de creacion: Mayo 2026
 
-## Contribuidores
-Actualmente no hay contribuidores adicionales registrados.
+## Propietarios y colaboradores actuales
+Propietarios operativos del proyecto:  
+Daniela.Pulgarin@sanofi.com  
+Nicolas.PINZONGUALDRON@sanofi.com
+
+Desarrollador original:  
+AndresFelipe.YANEZVILLARRAGA@sanofi.com
 
 ## Licencia
 Sanofi Internal Use Only.
@@ -104,4 +106,4 @@ Sanofi Internal Use Only.
 ## Estado del proyecto
 Estado: Activo  
 Ultima actualizacion: 2026-05-14  
-Mantenedor actual: Andres Felipe YANEZ VILLARRAGA
+Mantenedores actuales: Daniela Pulgarin y Nicolas Pinzon Gualdron

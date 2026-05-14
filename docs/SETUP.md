@@ -18,8 +18,4 @@ Si se desea consultar ZIP+4 mediante una API externa, configurar estas variables
 - `ZIP4_API_KEY`
 - `ZIP4_API_KEY_HEADER`
 
-## Configuracion de Git recomendada
-```powershell
-git config user.name "Andres Felipe YANEZ VILLARRAGA"
-git config user.email "AndresFelipe.YANEZVILLARRAGA@sanofi.com"
-```
+

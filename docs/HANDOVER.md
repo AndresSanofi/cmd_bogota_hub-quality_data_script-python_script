@@ -5,6 +5,8 @@ Esta herramienta existe para acelerar tareas recurrentes de limpieza y revision 
 
 ## Stakeholders clave
 - Andres Felipe YANEZ VILLARRAGA: Customer Master Data Analyst y autor original.
+- Daniela Pulgarin: propietaria operativa y mantenedora actual.
+- Nicolas Pinzon Gualdron: propietario operativo y mantenedor actual.
 - Equipo de Customer Master Data: usuarios funcionales del proceso.
 
 ## Procesos criticos
@@ -23,4 +25,5 @@ Esta herramienta existe para acelerar tareas recurrentes de limpieza y revision 
 - Integrar una API real para completar ZIP+4 automaticamente.
 
 ## Contactos de soporte
-- Aplicacion Cleaner: AndresFelipe.YANEZVILLARRAGA@sanofi.com
+- Mantenimiento funcional y operativo: Daniela.Pulgarin@sanofi.com; Nicolas.PINZONGUALDRON@sanofi.com
+- Desarrollo original del proyecto: AndresFelipe.YANEZVILLARRAGA@sanofi.com
